@@ -1,13 +1,12 @@
-## Abdias Arsène ZOUNTCHEME - IT Consultant in Innovative Technologies
+## IT Consultant in Innovative Technologies
 
 ### 👨‍🔬 Data Science |📊 Web Solution | Artificial Intelligence | 💻Web & Software development  
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0160985566)
-[![Site Web](https://img.shields.io/badge/Site_Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.tonsiteweb.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2290160985566)
+[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:abdiasarsene@gmail.com)
 [![Calendly](https://img.shields.io/badge/Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/abdiasarsene/debrief-me-on-your-project)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdias-arsene)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Abdiasarsene)
-[![Email](https://img.shields.io/badge/Email-abklb27%40gmail.com-red?logo=gmail&logoColor=white)](mailto:abdiasarsene@gmail.com)
 
 ---
 
@@ -143,15 +142,27 @@ As an **Expert in IT professions**, I can:
 
 ## 📚 Notable Projects
 
-### [Fruits Recognition Training](https://github.com/username/fruits-recognition)
-- **Description**: Un modèle de reconnaissance de fruits basé sur des techniques d'apprentissage profond.
-- **Technologies Utilisées**: Python, TensorFlow, Keras
+### [12-month sales analysis and prediction report](https://github.com/Abdiasarsene/datascience_projects/blob/main/analyse%20%26%20prediction%20des%20ventes/analyse_prediction_vente_ecommerce.ipynb)
+- **Description**: A sales analysis and prediction for the next 12 months, followed by the creation of a dashboard with Power BI. The prediction of the models is done using models such as the ARIMA model and the random forest. The predictive capacity of the model was achieved through the performance metric, the RMSE.
+- **Tech Used**: Python, Scikit-learn, Seaborn, Matplotlib
+- **Field** : Marketing - Ecommerce sector
 
+### [Climate change affects food prices and economic inequality](https://github.com/Abdiasarsene/datascience_projects/blob/main/scientific%20-%2020461/jupiter/analyse.ipynb)
+- **Description**: This is a scientific article where I used models such as VAR and the structural break method and finally a prediction with the random forest followed by an evaluation of the predictive capacities with the performance metric, the MAE.
+- **Tech Used**: Python, Scikit-learn, Seaborn, Matplotlib,Statsmodels
+- **Fields**: Environment, Economics, Social Sciences, Agriculture
+
+### [Sentiment and Emotion Analysis of Visitor Reviews for Improving Gym Services](https://github.com/Abdiasarsene/datascience_projects/blob/main/salle_gymn_sport/avissportif.ipynb)
+- **Description**: Sentiment and emotion analysis of visitor reviews to improve the services of a new gym. I used advanced NLP techniques to identify and evaluate reviews to provide accurate recommendations for service improvement.
+- **Tech Used**: Python, NLTK, VADER, Scikit-learn, Seaborn, Matplotlib,
+- **Fields**: Health and Wellness, Data Analytics, Customer Service
 ---
 
-## 🌐 Me Contacter
+## 🌐 Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-koloboe)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/abrahamkoloboe27)
-[![Email](https://img.shields.io/badge/Email-abklb27%40gmail.com-red?logo=gmail&logoColor=white)](mailto:abklb27@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2290160985566)
+[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:abdiasarsene@gmail.com)
+[![Calendly](https://img.shields.io/badge/Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/abdiasarsene/debrief-me-on-your-project)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdias-arsene)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Abdiasarsene)
 
