@@ -14,6 +14,8 @@
 
 I have a weakness for everything related to IT professions and for a long time, I wondered how to reconcile this strong love with my own nature. I don't like to appear that way, but I don't want to be that coder who just eats lines of code. I want to be proud to write thousands of lines and know in petto that these lines of code will be useful for something. This is how I decided to intervene as an **IT Consultant** in sectors such as humanitarian, health, marketing, banking and insurance, sociology and even psychology, helping companies, international organizations and humanitarian agencies to fully exploit the potential of their data and create innovative web solutions. My ability to combine rigorous analysis and technical creativity allows me to design tailor-made solutions that perfectly meet the specific needs of each project.
 
+![abdias](./linkedin.pbg)
+
 ---
 
 ## 🚀 Tech Stack
@@ -66,6 +68,7 @@ I have a weakness for everything related to IT professions and for a long time, 
 - **Psychology**
 - **Information Technology and Cybersecurity**
 
+![Report](./master.png)
 ---
 
 ## 🤺 What I can do in this areas
@@ -100,6 +103,8 @@ As an **Expert in IT professions**, I can:
 
 ## 🛠️ Skills
 
+![Performance](./bi.png)
+
 ### **Machine Learning & Modeling**:
 - **Frameworks**: TensorFlow, Keras, Scikit-learn, PyCaret
 - **Techniques**: Supervised, unsupervised, reinforcement learning, predictive models, clustering
@@ -121,6 +126,8 @@ As an **Expert in IT professions**, I can:
 ### **Programming Languages**:
 - **Main**: Python, C/C++
 - **Others**: SQL, JavaScript, HTML/CSS
+
+![SQL](./drawio.png)
 
 ### **Big Data & Data Pipeline**:
 - **Technologies**: Apache Spark
@@ -147,6 +154,8 @@ As an **Expert in IT professions**, I can:
 - **Tech Used**: Python, Scikit-learn, Seaborn, Matplotlib
 - **Field** : Marketing - Ecommerce sector
 
+![sales_prediction](./sales.png)
+
 ### [Climate change affects food prices and economic inequality](https://github.com/Abdiasarsene/datascience_projects/blob/main/scientific%20-%2020461/jupiter/analyse.ipynb)
 - **Description**: This is a scientific article where I used models such as VAR and the structural break method and finally a prediction with the random forest followed by an evaluation of the predictive capacities with the performance metric, the MAE.
 - **Tech Used**: Python, Scikit-learn, Seaborn, Matplotlib,Statsmodels
@@ -156,6 +165,8 @@ As an **Expert in IT professions**, I can:
 - **Description**: Sentiment and emotion analysis of visitor reviews to improve the services of a new gym. I used advanced NLP techniques to identify and evaluate reviews to provide accurate recommendations for service improvement.
 - **Tech Used**: Python, NLTK, VADER, Scikit-learn, Seaborn, Matplotlib,
 - **Fields**: Health and Wellness, Data Analytics, Customer Service
+
+![concurrence](./concurrence.png)
 ---
 
 ## 🌐 Get In Touch
