@@ -165,7 +165,7 @@ As an **Expert in IT professions**, I can:
 - **Tech Used**: Excel, PowerBI
 - **Field** : Humanitarian Aid
 
-### [⚖️👩‍⚖️ LewEmotion - An Intelligent Dashboard](https://github.com/Abdiasarsene/LexEmotion-An-Intelligent-Dashboard)
+### [⚖️👩‍⚖️ LexEmotion - An Intelligent Dashboard](https://github.com/Abdiasarsene/LexEmotion-An-Intelligent-Dashboard)
 - **Description**: An Intelligent Dashboard for Emotion and Theme Detection in Legal Case Reports. LexEmotion is a cutting-edge NLP dashboard designed for legal professionals, law firms, and investigators. It leverages the latest advances in Natural Language Processing to extract emotions, detect key themes, and summarize incident or legal reports — in multiple languages and formats.
 - **Tech Used**: Seaborn, Matplotlib, Fitz, SpaCy, Transformers, Langdetect, Googletrans
 - **Méthodes** : Advanced Emotion Detection, Topic Extraction & Summarization, Interactive Dashboard, Scalable Architecture
