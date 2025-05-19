@@ -147,21 +147,43 @@ As an **Expert in IT professions**, I can:
 
 ---
 
-## 📚 Notable Projects
+## 📚 Projects
 
-### [12-month sales analysis and prediction report](https://github.com/Abdiasarsene/datascience_projects/blob/main/analyse%20%26%20prediction%20des%20ventes/analyse_prediction_vente_ecommerce.ipynb)
+### [✅📊Customer Segmentation for a Marketing Campaign](https://github.com/Abdiasarsene/Customer_segmentation_for_a_Marketing_Campaign)
+- **Description**:This project aims to segment a company's customers into distinct groups using unsupervised learning algorithms. The goal is to optimize marketing campaigns by offering tailored promotions to each customer segment.
+- **Tech Used**: Scikit-learn, Seaborn, Matplotlib
+- **Methods** : PCA, Elbow and Silhouette Methods, KMeans
+- **Field** : Marketing - Ecommerce sector
+
+### [📈📊Développement d'un Tableau de Bord de la Chaîne d'Approvisionnement ](https://github.com/Abdiasarsene/Developpement_Tableau_de_Bord_de_la_Chaine_Approvisionnement_Power_BI)
+- **Description**:Le projet de visualisation et prédiction des données de la chaîne d'approvisionnement est maintenant finalisé. Il comprend un **tableau de bord Power BI** interactif pour l'analyse des performances, un **modèle prédictif de Machine Learning** permettant d'anticiper les retards et les besoins de réapprovisionnement, ainsi qu'une **API REST déployée avec Docker** pour fournir des prédictions en temps réel. Le suivi et l'optimisation des modèles ont été assurés via **MLflow**, garantissant une gestion efficace des expériences ML et une amélioration continue. Cette solution permet désormais une prise de décision plus rapide et éclairée.
+- **Tech Utilisées**: Scikit-learn, Seaborn, Matplotlib,FastAPI, Docker, CI/CP Pipeline, PowerBI, MLflow
+- **Domaine** : Logistique
+
+### [👨‍👩‍👧‍👦📊EducSight : Data Driven Insights for Smart Education](https://github.com/Abdiasarsene/EduSight-Data-driven-Insights-for-Smarter-Education)
+- **Description**: EduSight is a data visualization project designed to transform educational data into actionable insights. It helps NGOs, schools, and policymakers monitor academic performance, optimize teaching resources, and assess learning program effectiveness, driving smarter decisions for better education outcomes..
+- **Tech Used**: Excel, PowerBI
+- **Field** : Humanitarian Aid
+
+### [😤😡Détection des Emotions dans les Rapports d'Incidents](https://github.com/Abdiasarsene/Detection_des_Emotions_dans_les_Rapports_dIncidents_en_Entreprise)
+- **Description**: Dans un environnement professionnel, les rapports d'incidents révèlent non seulement des faits, mais aussi les émotions des employés face aux situations critiques. Ce projet utilise l'analyse des émotions pour mieux cerner leurs ressentis et améliorer la gestion des risques..
+- **Tech Used**: Seaborn, Matplotlib, Fitz, SpaCy, Transformers
+- **Méthodes** : LDA, Analyses des émotions et des sentiments
+- **Field** : Ressoures Humaines
+
+### [🤒💉Prédiction des Maladies et Proposition de Traitement](https://github.com/Abdiasarsene/Prediction_des_Maladies_et_Proposition_de_Traitement)
+- **Description**: Ce projet propose une API intelligente construite avec FastAPI pour prédire des maladies à partir de données médicales de patients. L'application repose sur un modèle de machine learning (Logistic Regression) géré via MLflow, et peut facilement être déployée grâce à Docker.
+- **Tech Utiisées**: Seaborn, Matplotlib, FastAPI, MLflow, Docker, Jenkins, CI/CD Pipeline
+- **Field** : Santé
+  
+### [✅📊12-month sales analysis and prediction report](https://github.com/Abdiasarsene/datascience_projects/blob/main/analyse%20%26%20prediction%20des%20ventes/analyse_prediction_vente_ecommerce.ipynb)
 - **Description**: A sales analysis and prediction for the next 12 months, followed by the creation of a dashboard with Power BI. The prediction of the models is done using models such as the ARIMA model and the random forest. The predictive capacity of the model was achieved through the performance metric, the RMSE.
 - **Tech Used**: Python, Scikit-learn, Seaborn, Matplotlib
 - **Field** : Marketing - Ecommerce sector
 
 ![sales_prediction](./sales.png)
 
-### [Climate change affects food prices and economic inequality](https://github.com/Abdiasarsene/datascience_projects/blob/main/scientific%20-%2020461/jupiter/analyse.ipynb)
-- **Description**: This is a scientific article where I used models such as VAR and the structural break method and finally a prediction with the random forest followed by an evaluation of the predictive capacities with the performance metric, the MAE.
-- **Tech Used**: Python, Scikit-learn, Seaborn, Matplotlib,Statsmodels
-- **Fields**: Environment, Economics, Social Sciences, Agriculture
-
-### [Sentiment and Emotion Analysis of Visitor Reviews for Improving Gym Services](https://github.com/Abdiasarsene/datascience_projects/blob/main/salle_gymn_sport/avissportif.ipynb)
+### [✅📈Sentiment and Emotion Analysis of Visitor Reviews for Improving Gym Services](https://github.com/Abdiasarsene/datascience_projects/blob/main/salle_gymn_sport/avissportif.ipynb)
 - **Description**: Sentiment and emotion analysis of visitor reviews to improve the services of a new gym. I used advanced NLP techniques to identify and evaluate reviews to provide accurate recommendations for service improvement.
 - **Tech Used**: Python, NLTK, VADER, Scikit-learn, Seaborn, Matplotlib,
 - **Fields**: Health and Wellness, Data Analytics, Customer Service
