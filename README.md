@@ -127,7 +127,7 @@ As an **Expert in IT professions**, I can:
 - **Main**: Python, C/C++
 - **Others**: SQL, JavaScript, HTML/CSS
 
-![SQL](./drawio.png)
+![sales_prediction](./sales.png)
 
 ### **Big Data & Data Pipeline**:
 - **Technologies**: Apache Spark
@@ -165,11 +165,11 @@ As an **Expert in IT professions**, I can:
 - **Tech Used**: Excel, PowerBI
 - **Field** : Humanitarian Aid
 
-### [😤😡Détection des Emotions dans les Rapports d'Incidents](https://github.com/Abdiasarsene/Detection_des_Emotions_dans_les_Rapports_dIncidents_en_Entreprise)
-- **Description**: Dans un environnement professionnel, les rapports d'incidents révèlent non seulement des faits, mais aussi les émotions des employés face aux situations critiques. Ce projet utilise l'analyse des émotions pour mieux cerner leurs ressentis et améliorer la gestion des risques..
-- **Tech Used**: Seaborn, Matplotlib, Fitz, SpaCy, Transformers
-- **Méthodes** : LDA, Analyses des émotions et des sentiments
-- **Field** : Ressoures Humaines
+### [⚖️👩‍⚖️ LewEmotion - An Intelligent Dashboard](https://github.com/Abdiasarsene/LexEmotion-An-Intelligent-Dashboard)
+- **Description**: An Intelligent Dashboard for Emotion and Theme Detection in Legal Case Reports. LexEmotion is a cutting-edge NLP dashboard designed for legal professionals, law firms, and investigators. It leverages the latest advances in Natural Language Processing to extract emotions, detect key themes, and summarize incident or legal reports — in multiple languages and formats.
+- **Tech Used**: Seaborn, Matplotlib, Fitz, SpaCy, Transformers, Langdetect, Googletrans
+- **Méthodes** : Advanced Emotion Detection, Topic Extraction & Summarization, Interactive Dashboard, Scalable Architecture
+- **Field** : Law
 
 ### [🤒💉Prédiction des Maladies et Proposition de Traitement](https://github.com/Abdiasarsene/Prediction_des_Maladies_et_Proposition_de_Traitement)
 - **Description**: Ce projet propose une API intelligente construite avec FastAPI pour prédire des maladies à partir de données médicales de patients. L'application repose sur un modèle de machine learning (Logistic Regression) géré via MLflow, et peut facilement être déployée grâce à Docker.
@@ -180,8 +180,6 @@ As an **Expert in IT professions**, I can:
 - **Description**: A sales analysis and prediction for the next 12 months, followed by the creation of a dashboard with Power BI. The prediction of the models is done using models such as the ARIMA model and the random forest. The predictive capacity of the model was achieved through the performance metric, the RMSE.
 - **Tech Used**: Python, Scikit-learn, Seaborn, Matplotlib
 - **Field** : Marketing - Ecommerce sector
-
-![sales_prediction](./sales.png)
 
 ### [✅📈Sentiment and Emotion Analysis of Visitor Reviews for Improving Gym Services](https://github.com/Abdiasarsene/datascience_projects/blob/main/salle_gymn_sport/avissportif.ipynb)
 - **Description**: Sentiment and emotion analysis of visitor reviews to improve the services of a new gym. I used advanced NLP techniques to identify and evaluate reviews to provide accurate recommendations for service improvement.
