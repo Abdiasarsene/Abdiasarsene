@@ -17,10 +17,7 @@
 ![Amazon ElastiCache](https://img.shields.io/badge/ElastiCache-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -32,8 +29,22 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=fluentd&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-*"I have a weakness for everything related to IT professions and for a long time, I wondered how to reconcile this strong love with my own nature. I don't like to appear that way, but I don't want to be that coder who just eats lines of code. I want to be proud to write thousands of lines and know in petto that these lines of code will be useful for something. This is how I decided to intervene as an **IT Consultant** in sectors such as humanitarian, health, marketing, banking and insurance, sociology and even psychology, helping companies, international organizations and humanitarian agencies to fully exploit the potential of their data and create innovative web solutions. My ability to combine rigorous analysis and technical creativity allows me to design tailor-made solutions that perfectly meet the specific needs of each project."*
+*" I design and lead AI architectures that bridge technical rigor with societal impact. 
+From healthcare diagnostics to financial reasoning platforms, I build scalable, 
+observed, and ethical AI systems that empower organizations worldwide."*
 
 ---
 
@@ -48,50 +59,57 @@
 
 ---
 
-## 📚 Projects
+## 📚 Key achievements
 
-### [✅📊Customer Segmentation for a Marketing Campaign](https://github.com/Abdiasarsene/Customer_segmentation_for_a_Marketing_Campaign)
-- **Description**:This project aims to segment a company's customers into distinct groups using unsupervised learning algorithms. The goal is to optimize marketing campaigns by offering tailored promotions to each customer segment.
-- **Tech Used**: Scikit-learn, Seaborn, Matplotlib
-- **Methods** : PCA, Elbow and Silhouette Methods, KMeans
-- **Field** : Marketing - Ecommerce sector
+### [HealthPredict API – Smart Medical Diagnosis System](https://github.com/Abdiasarsene/HealthPredict-API-Smart-Medical-Diagnosis-System))
+- **Description**:Designed and delivered a dual-model AI diagnosis architecture on GCP, integrating real-time patient data ingestion, scalable inference via Ray Serve, and model lifecycle management with MLflow. Implemented high-availability failover using BentoML, containerized microservices, and CI/CD pipelines (Jenkins + Taskfile) for automated testing, deployment, and rollback. Ensured compliance with healthcare data regulations and optimized latency for clinical decision support.
+- **Tech Used**: FastAPI · Ray Serve · MLflow · BentoML · Docker · Taskfile · Jenkins · Scikit-learn · Python
+- **Field** : Healthcare
 
-### [📈📊Développement d'un Tableau de Bord de la Chaîne d'Approvisionnement ](https://github.com/Abdiasarsene/Developpement_Tableau_de_Bord_de_la_Chaine_Approvisionnement_Power_BI)
-- **Description**:Le projet de visualisation et prédiction des données de la chaîne d'approvisionnement est maintenant finalisé. Il comprend un **tableau de bord Power BI** interactif pour l'analyse des performances, un **modèle prédictif de Machine Learning** permettant d'anticiper les retards et les besoins de réapprovisionnement, ainsi qu'une **API REST déployée avec Docker** pour fournir des prédictions en temps réel. Le suivi et l'optimisation des modèles ont été assurés via **MLflow**, garantissant une gestion efficace des expériences ML et une amélioration continue. Cette solution permet désormais une prise de décision plus rapide et éclairée.
-- **Tech Utilisées**: Scikit-learn, Seaborn, Matplotlib,FastAPI, Docker, CI/CP Pipeline, PowerBI, MLflow
-- **Domaine** : Logistique
+### [Finance RAG – Intelligent Financial Reasoning Platform](https://github.com/Abdiasarsene/Finance-RAG-Data-Engineering)
+- **Description**: Designed and implemented the Data Engineering backbone of an enterprise-grade Finance RAG architecture, delivering robust ingestion, chunking, and embedding pipelines with distributed orchestration and full observability. This foundation ensures reliable data flow and scalability for the upcoming retrieval and LLM reasoning layers within a modular GenAI ecosystem.
+- **Tech Used**:Python · RabbitMQ · Docker · MinIO · Prometheus · Grafana · Elasticsearch · Kibana · Fluentd · LangChain · Milvus · SpaCy · PyTorch · TensorFlow · Taskfile · CI/CD (Jenkins)
+- **Field** : Finance
 
-### [👨‍👩‍👧‍👦📊EducSight : Data Driven Insights for Smart Education](https://github.com/Abdiasarsene/EduSight-Data-driven-Insights-for-Smarter-Education)
-- **Description**: EduSight is a data visualization project designed to transform educational data into actionable insights. It helps NGOs, schools, and policymakers monitor academic performance, optimize teaching resources, and assess learning program effectiveness, driving smarter decisions for better education outcomes..
-- **Tech Used**: Excel, PowerBI
-- **Field** : Humanitarian Aid
+### [Predictive Churn Management - Data Driven customer Insights](https://github.com/Abdiasarsene/Predictive-Churn-Management-Data-Driven-Customer)
+- **Description**: Designed a cloud-native churn prediction architecture integrating batch analytics and real-time API inference for e-commerce customer segmentation. Implemented an API-first approach with FastAPI services, orchestrated CI/CD (Jenkins) for both backend and Django-based frontend, and a model failover strategy using BentoML. Monitored model performance and operational health with Prometheus and Grafana, ensuring 97% precision sustained post-deployment.
+- **Tech Used**: Scikit-learn · FastAPI · Django · Docker · MLflow · BentoML · Prometheus · Grafana · CI/CD (Jenkins) · Python
+- **Field** : Marketing - E-commece sector
 
-### [⚖️👩‍⚖️ LexEmotion - An Intelligent Dashboard](https://github.com/Abdiasarsene/LexEmotion-An-Intelligent-Dashboard)
-- **Description**: An Intelligent Dashboard for Emotion and Theme Detection in Legal Case Reports. LexEmotion is a cutting-edge NLP dashboard designed for legal professionals, law firms, and investigators. It leverages the latest advances in Natural Language Processing to extract emotions, detect key themes, and summarize incident or legal reports — in multiple languages and formats.
-- **Tech Used**: Seaborn, Matplotlib, Fitz, SpaCy, Transformers, Langdetect, Googletrans
-- **Méthodes** : Advanced Emotion Detection, Topic Extraction & Summarization, Interactive Dashboard, Scalable Architecture
-- **Field** : Law
+---
 
-### [🤒💉Prédiction des Maladies et Proposition de Traitement](https://github.com/Abdiasarsene/Prediction_des_Maladies_et_Proposition_de_Traitement)
-- **Description**: Ce projet propose une API intelligente construite avec FastAPI pour prédire des maladies à partir de données médicales de patients. L'application repose sur un modèle de machine learning (Logistic Regression) géré via MLflow, et peut facilement être déployée grâce à Docker.
-- **Tech Utiisées**: Seaborn, Matplotlib, FastAPI, MLflow, Docker, Jenkins, CI/CD Pipeline
-- **Field** : Santé
-  
-### [✅📊12-month sales analysis and prediction report](https://github.com/Abdiasarsene/datascience_projects/blob/main/analyse%20%26%20prediction%20des%20ventes/analyse_prediction_vente_ecommerce.ipynb)
-- **Description**: A sales analysis and prediction for the next 12 months, followed by the creation of a dashboard with Power BI. The prediction of the models is done using models such as the ARIMA model and the random forest. The predictive capacity of the model was achieved through the performance metric, the RMSE.
-- **Tech Used**: Python, Scikit-learn, Seaborn, Matplotlib
-- **Field** : Marketing - Ecommerce sector
+## 🏛 Architecture Patterns
+- **Event-driven microservices** with Kafka & RabbitMQ for real-time ingestion  
+- **RAG (Retrieval-Augmented Generation) pipelines** for finance and knowledge management  
+- **Hybrid batch + streaming architectures** for analytics and real-time APIs  
+- **Cloud-native ML deployment** with BentoML + Kubernetes  
+- **Observability-first design**: Prometheus, Grafana, OpenTelemetry integrated from the start  
+- **Failover & resilience patterns**: multi-model fallback, autoscaling, CI/CD rollback strategies  
 
-### [✅📈Sentiment and Emotion Analysis of Visitor Reviews for Improving Gym Services](https://github.com/Abdiasarsene/datascience_projects/blob/main/salle_gymn_sport/avissportif.ipynb)
-- **Description**: Sentiment and emotion analysis of visitor reviews to improve the services of a new gym. I used advanced NLP techniques to identify and evaluate reviews to provide accurate recommendations for service improvement.
-- **Tech Used**: Python, NLTK, VADER, Scikit-learn, Seaborn, Matplotlib,
-- **Fields**: Health and Wellness, Data Analytics, Customer Service
+---
+
+## 👥 Leadership & Mentoring
+- Mentored **junior engineers** and data scientists in building ML pipelines  
+- Led **internal workshops** on MLOps, CI/CD, and observability practices  
+- Contributed to **DevOps/AI culture** through documentation, code reviews, and best practices  
+- Coordinated **cross-functional teams** (IT, marketing, healthcare, finance) to align tech with business goals  
+- Established **architecture standards** ensuring scalability and consistency across projects  
+
+---
+
+## 📊 KPIs / Metrics
+- **97% precision** sustained in production for churn prediction models  
+- **40% latency reduction** on medical diagnosis APIs (Ray Serve + FastAPI optimization)  
+- **1M+ events/day** processed through Kafka + Elasticsearch pipelines  
+- **20% cloud cost savings** achieved via orchestration and proactive monitoring  
+- **99.9% uptime** maintained on critical microservices with autoscaling and failover  
+- **<5 min rollback** guaranteed through CI/CD pipelines (Jenkins + Taskfile)  
 
 ---
 
 ## 🌐 Get In Touch
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2290160985566)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0756806937)
 [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:abdiasarsene@gmail.com)
 [![Calendly](https://img.shields.io/badge/Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/abdiasarsene/debrief-me-on-your-project)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdias-arsene)
