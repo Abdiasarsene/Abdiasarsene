@@ -1,22 +1,4 @@
-## IT Consultant in Innovative Technologies
-
-### 👨‍🔬 Data Science |📊 Web Solution | Artificial Intelligence | 💻Web & Software development  
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/33756806957)
-[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:abdiasarsene@gmail.com)
-[![Calendly](https://img.shields.io/badge/Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/abdiasarsene/debrief-me-on-your-project)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdias-arsene)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Abdiasarsene)
-
----
-
-## 📧 About Me
-
-I have a weakness for everything related to IT professions and for a long time, I wondered how to reconcile this strong love with my own nature. I don't like to appear that way, but I don't want to be that coder who just eats lines of code. I want to be proud to write thousands of lines and know in petto that these lines of code will be useful for something. This is how I decided to intervene as an **IT Consultant** in sectors such as humanitarian, health, marketing, banking and insurance, sociology and even psychology, helping companies, international organizations and humanitarian agencies to fully exploit the potential of their data and create innovative web solutions. My ability to combine rigorous analysis and technical creativity allows me to design tailor-made solutions that perfectly meet the specific needs of each project.
-
----
-
-## ⚙️ Tech Stack & Tools
+# AI Architect | End-to-End AI Systems | Global & Ethical Focus
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -39,7 +21,6 @@ I have a weakness for everything related to IT professions and for a long time, 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -52,93 +33,18 @@ I have a weakness for everything related to IT professions and for a long time, 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
----
-
-### 🌟 Areas of Intervention
-
-- **Humanitarian**
-- **Health and Medicine**
-- **Marketing**
-- **Banking and Insurance**
-- **Psychology**
-- **Information Technology and Cybersecurity**
-
-![Report](./master.png)
----
-
-## 🤺 What I can do in this areas
-
-As an **Expert in IT professions**, I can:
-
-### **Humanitarian**:
-- Optimize the distribution of resources through data analysis.
-- Develop platforms for monitoring and managing humanitarian projects.
-
-### **Health and Medicine**:
-- Create predictive models for medical diagnoses.
-- Develop web solutions for patient record management.
-
-### **Marketing**:
-- Analyze customer data to develop targeted marketing strategies.
-- Develop interactive websites and marketing portals.
-
-### **Banking and Insurance** :
-- Implement data analysis for risk management and fraud detection.
-- Design web applications for banking and insurance services.
-
-### **Psychology** :
-- Perform data analysis for psychological research.
-- Develop online psychological support and monitoring platforms.
-
-### **Information Technology and Cybersecurity** :
-- Conduct data security audits and develop security protocols.
-- Design and implement secure web solutions.
+*"I have a weakness for everything related to IT professions and for a long time, I wondered how to reconcile this strong love with my own nature. I don't like to appear that way, but I don't want to be that coder who just eats lines of code. I want to be proud to write thousands of lines and know in petto that these lines of code will be useful for something. This is how I decided to intervene as an **IT Consultant** in sectors such as humanitarian, health, marketing, banking and insurance, sociology and even psychology, helping companies, international organizations and humanitarian agencies to fully exploit the potential of their data and create innovative web solutions. My ability to combine rigorous analysis and technical creativity allows me to design tailor-made solutions that perfectly meet the specific needs of each project."*
 
 ---
 
-## 🛠️ Skills
+## 🌟 Cross-sector expertise  & impacts
 
-![Performance](./bi.png)
-
-### **Machine Learning & Modeling**:
-- **Frameworks**: TensorFlow, Keras, Scikit-learn, PyCaret
-- **Techniques**: Supervised, unsupervised, reinforcement learning, predictive models, clustering
-
-### **Natural Language Processing (NLP)**:
-- **Techniques**: Sentiment analysis, Named Entity Extraction (NER), Automatic Summarization, Text Generation
-- **Tools**: NLTK, SpaCy, Hugging Face Transformers, Gensim, BERT
-- **Skills**: Text data preprocessing, linguistic modeling, chatbot development
-
-### **Deep Learning**:
-- **Frameworks**: TensorFlow, Keras, PyTorch
-- **Techniques**: Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Adversarial Networks Generative (GAN), Autoencoders
-- **Applications**: Computer Vision, Natural Language Processing, Image Generation, Recommendation Models
-
-### **Dashboard Development**:
-- **Tools**: Streamlit, PowerBI, Tableau, Flask
-- **Skills**: Interactive Dashboard Creation, Data Visualization, Real-Time Data Analysis
-
-### **Programming Languages**:
-- **Main**: Python, C/C++
-- **Others**: SQL, JavaScript, HTML/CSS
-
-![sales_prediction](./sales.png)
-
-### **Big Data & Data Pipeline**:
-- **Technologies**: Apache Spark
-- **Skills**: Large-scale data processing, data pipelines, data ingestion and transformation
-
-### **Data Visualization**:
-- **Libraries**: Matplotlib, Seaborn, Plotly, D3.js
-- **Skills**: Static and interactive charting, advanced visualization, storytelling with data
-
-### **Cybersecurity**:
-- **Domains**: Data security analysis, security protocol development
-- **Tools**: Wireshark, nmap, Metasploit, network security tools
-
-### **Project Management & Methodologies**:
-- **Methods**: Agile, Scrum, Kanban
-- **Skills**: Project planning, team management, sprint tracking
+- **Humanitarian Operations**
+- **Healthcare & Medical Diagnostics**
+- **Law & Access to Justice**
+- **Marketing & Customer Insights**
+- **Banking & Insurance**
+- **Psychology & Sociology**
 
 ---
 
@@ -181,7 +87,6 @@ As an **Expert in IT professions**, I can:
 - **Tech Used**: Python, NLTK, VADER, Scikit-learn, Seaborn, Matplotlib,
 - **Fields**: Health and Wellness, Data Analytics, Customer Service
 
-![concurrence](./concurrence.png)
 ---
 
 ## 🌐 Get In Touch
