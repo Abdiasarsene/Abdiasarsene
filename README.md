@@ -61,7 +61,7 @@ observed, and ethical AI systems that empower organizations worldwide."*
 
 ## 📚 Key achievements
 
-### [HealthPredict API – Smart Medical Diagnosis System](https://github.com/Abdiasarsene/HealthPredict-API-Smart-Medical-Diagnosis-System))
+### [HealthPredict API – Smart Medical Diagnosis System](https://github.com/Abdiasarsene/HealthPredict-API-Smart-Medical-Diagnosis-System)
 - **Description**:Designed and delivered a dual-model AI diagnosis architecture on GCP, integrating real-time patient data ingestion, scalable inference via Ray Serve, and model lifecycle management with MLflow. Implemented high-availability failover using BentoML, containerized microservices, and CI/CD pipelines (Jenkins + Taskfile) for automated testing, deployment, and rollback. Ensured compliance with healthcare data regulations and optimized latency for clinical decision support.
 - **Tech Used**: FastAPI · Ray Serve · MLflow · BentoML · Docker · Taskfile · Jenkins · Scikit-learn · Python
 - **Field** : Healthcare
