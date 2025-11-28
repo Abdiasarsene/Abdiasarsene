@@ -109,7 +109,7 @@ observed, and ethical AI systems that empower organizations worldwide."*
 
 ## 🌐 Get In Touch
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0756806937)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/33756806937)
 [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:abdiasarsene@gmail.com)
 [![Calendly](https://img.shields.io/badge/Calendly-00A2FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/abdiasarsene/debrief-me-on-your-project)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdias-arsene)
